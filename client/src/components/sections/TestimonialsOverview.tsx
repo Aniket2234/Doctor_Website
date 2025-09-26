@@ -3,25 +3,25 @@ import { Card, CardContent } from "@/components/ui/card";
 
 const testimonialCards = [
   {
-    image: "/public/images/A.jpg",
+    image: "/Images/A.jpg",
     quote: "Have Had A Wonderful Experience at Rahi's Clinic. Dr.Iqra Takes Her time to Listen, Understand and Advise the best possible Line Of Treatment for each concern. Besides she takes the time to explain everything you need to know about your condition and treat it with not only medication but also lifestyle changes with minimal investigation I Would definitely recommend you to Visit Rahi's Clinic for any health concerns of your family and friends.🙂",
     author: "Aarti Subramani",
     type: "general"
   },
   {
-    image: "public/images/I.png",
+    image: "/Images/I.png",
     quote: "I had a wonderful experience with Dr. Iqra Rahi. She is extremely knowledgeable, professional, and compassionate. From the moment I walked into her clinic, I felt comfortable and well cared for. She took the time to listen to all my concerns, explained everything clearly, and made sure I was comfortable throughout the process. Her approach is both thorough and reassuring. I would highly recommend Dr. Iqra Rahi to anyone looking for a skilled and caring doctor. Truly a great professional",
     author: "Irsshad Shaaikh",
     type: "general"
   },
   {
-    image: "public/images/R.png",
+    image: "/Images/R.png",
     quote: "Dr Iqra has been a gem of a doctor.. she is super friendly and a connect with her will feel like family and so far her treatments have been very effective.. Also is just a call away . Thanks Dr Iqra for everything!",
     author: "Reshma Khan",
     type: "general"
   },
   {
-    image: "public/images/C.png",
+    image: "/Images/C.png",
     quote: "I had visited Dr. Rahis' clinic multiple times for my acne problem. Since longer time taking treatment from Dr. Rahi and got good result. Thank you so much Dr. Rahi for your cooperation.",
     author: "Chinmayi Raut",
     type: "dermatology"
