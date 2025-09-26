@@ -68,7 +68,7 @@ export const TestimonialsSection = (): JSX.Element => {
                       </div>
                       <div 
                         className="overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 cursor-pointer"
-                        onClick={() => openModal('/public/images/cpr2.jpg')}
+                        onClick={() => openModal('/Images/cpr2.jpg')}
                       >
                         <img
                           src="/Images/cpr2.jpg"
@@ -78,7 +78,7 @@ export const TestimonialsSection = (): JSX.Element => {
                       </div>
                       <div 
                         className="overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 cursor-pointer"
-                        onClick={() => openModal('/public/images/cpr3.jpg')}
+                        onClick={() => openModal('/Images/cpr3.jpg')}
                       >
                         <img
                           src="/Images/cpr3.jpg"
